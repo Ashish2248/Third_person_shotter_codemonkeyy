@@ -668,6 +668,11 @@ GameObject:
   m_CorrespondingSourceObject: {fileID: 4416926081852918481, guid: 64dce48905ffd9b4293e595fa6941544, type: 3}
   m_PrefabInstance: {fileID: 1762682258}
   m_PrefabAsset: {fileID: 0}
+--- !u!95 &850866192 stripped
+Animator:
+  m_CorrespondingSourceObject: {fileID: 6982812146204527121, guid: 64dce48905ffd9b4293e595fa6941544, type: 3}
+  m_PrefabInstance: {fileID: 1762682258}
+  m_PrefabAsset: {fileID: 0}
 --- !u!114 &850866194
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -689,6 +694,7 @@ MonoBehaviour:
   debugTransform: {fileID: 1009137584}
   pfBulletProjectile: {fileID: 6863857337172796870, guid: 84e6bcf5d9a267446b883effdcf5c1a4, type: 3}
   spawnBulletPosition: {fileID: 1636270694}
+  animator: {fileID: 850866192}
 --- !u!1 &853140172
 GameObject:
   m_ObjectHideFlags: 0
